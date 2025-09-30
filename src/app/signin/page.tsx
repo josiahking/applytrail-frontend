@@ -1,4 +1,4 @@
-export default function SigninPage() {
+export default function Page() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-gray-50">
       <div className="w-full max-w-md bg-white rounded-xl shadow p-8">
